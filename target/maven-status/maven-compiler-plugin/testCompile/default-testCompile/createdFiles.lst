@@ -1,0 +1,3 @@
+com\breno\consultaendereco\ConsultaEnderecoApplicationTests.class
+com\breno\consultaendereco\service\EnderecoServiceTest.class
+com\breno\consultaendereco\controller\EnderecoControllerTest.class

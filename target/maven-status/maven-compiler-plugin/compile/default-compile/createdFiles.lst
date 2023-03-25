@@ -1,0 +1,10 @@
+com\breno\consultaendereco\service\EnderecoService.class
+com\breno\consultaendereco\ConsultaEnderecoApplication.class
+com\breno\consultaendereco\entitie\EnderecoViaCep.class
+com\breno\consultaendereco\entitie\Endereco$Builder.class
+com\breno\consultaendereco\configuration\AppConfig.class
+com\breno\consultaendereco\controller\EnderecoController.class
+com\breno\consultaendereco\exceptions\EnderecoNaoEncontradoException.class
+com\breno\consultaendereco\configuration\SwaggerConfig.class
+com\breno\consultaendereco\controller\ConsultaEnderecoRequest.class
+com\breno\consultaendereco\entitie\Endereco.class
