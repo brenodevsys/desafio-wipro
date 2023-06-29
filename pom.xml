@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.breno</groupId>
-	<artifactId>consulta-endereco</artifactId>
+	<artifactId>despesa-recife</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>consulta-endereco</name>
-	<description>API Rest para consulta de endereço por CEP e calculo de valores.</description>
+	<name>despesa-recife</name>
+	<description>API Rest para consulta de despesas de RECIFE, desafio NYX by Breno Delgaado.</description>
 	<properties>
 		<java.version>11</java.version>
 		<maven.compiler.target>11</maven.compiler.target>
@@ -66,6 +66,16 @@
 			<version>7.0.0</version>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>com.opencsv</groupId>
+			<artifactId>opencsv</artifactId>
+			<version>5.5.2</version>
+		</dependency>
+		<dependency>
+			<groupId>org.json</groupId>
+			<artifactId>json</artifactId>
+			<version>20210307</version>
+		</dependency>
 
 		<dependency>
 			<groupId>io.cucumber</groupId>
@@ -73,6 +83,7 @@
 			<version>7.0.0</version>
 			<scope>test</scope>
 		</dependency>
+
 
 
 	</dependencies>
